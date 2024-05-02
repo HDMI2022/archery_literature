@@ -6,6 +6,8 @@
 
 # Change Log
 
+05022024 更新 日置流印西派弓术手册 v1.0 至 v1.1 (Heki_Insai_tech_manual_v1_1.pdf)，修正了一些typo
+
 02232024 发布 BEST方法 v1.0 (best_method_v1.pdf)
 
 02102024 发布 日置流印西派弓术手册 v1.0 (Heki_Insai_tech_manual_v1.pdf)
